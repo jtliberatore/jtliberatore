@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 
-**jtliberatore/jtliberatore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**jtliberatore/jtliberatore** 
 
 - 🔭 I’m currently working on finishing up projects for the Bloomtech Data Science course
 - 🌱 I’m currently learning Data Science and Python: SQL, Machine learning, Data processing, Data cleaning, pipelines, exploritory data analysis, feature engineering, software testing 
