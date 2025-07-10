@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**jtliberatore/jtliberatore** 
+
 
 - 🔭 I’m currently working on finishing up projects for the Bloomtech Data Science course
 - 🌱 I’m currently learning Data Science and Python: SQL, Machine learning, Data processing, Data cleaning, pipelines, exploritory data analysis, feature engineering, software testing 
@@ -13,4 +13,4 @@
                              myschoolJTL@yahoo.com
 
 - ⚡ Fun fact: there is a a simple video game I'm just working on for fun
--->
+
